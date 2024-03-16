@@ -38,7 +38,7 @@ body {
 .pop-up {
   width: 400px;
   background: #fff;
-  border-radius: 6px;
+  border-radius: 20px;
   position: absolute;
   top: 0%;
   left: 50%;
@@ -64,6 +64,11 @@ body {
   font-size: 38px;
   font-weight: 500;
   margin: 30px 0 10px;
+}
+.pop-up p {
+  font-size: 18px;
+  font-weight: 200;
+
 }
 
 .pop-up button {
